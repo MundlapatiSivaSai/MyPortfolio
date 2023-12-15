@@ -76,7 +76,7 @@ const SocialIcons = (props) => {
 
       {/* Generic Link Icon */}
       <IconLink 
-        href="https://drive.google.com/file/d/1LSOScBBLMFtouwIaMqx1x4WAhnmTh8dN/view?usp=sharing"
+        href="https://drive.google.com/file/d/1WmDSpYtlHr4Hrk8GXcAbT7wyTXLIkNXm/view?usp=sharing"
         delay={1.4}
         theme={props.theme}
         children={() => (

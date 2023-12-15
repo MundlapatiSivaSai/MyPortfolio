@@ -31,6 +31,15 @@ export const Work = [
     },
     {
         id:4,
+        name:"Fintech",
+        description:"Fintech- One stop destination for your finances A Fintech Service Application",
+        tags:["React.js","Material ui","TypeScript"],
+        
+        demo:"https://fintechbysiva.netlify.app/",
+        github:"https://github.com/MundlapatiSivaSai/Fintech"
+    },
+    {
+        id:5,
         name:"SimplScrapy",
         description:"This project implements a basic web scraping tool to extract specific information from websites using Python. It's designed as a project for those new to web scraping.",
         tags:["HTML","CSS","Python"],
@@ -39,12 +48,12 @@ export const Work = [
         github:"https://github.com/MundlapatiSivaSai/SimplScrapy"
        
     },{
-        id:5,
+        id:6,
         name:"MyPortfolio",
         description:"Explore My professional journey in software development. Discover a showcase of innovative projects, technical skills, and a unique approach.",
         tags:["react","redux","framer-motion"],
         
-        demo:"http://rea",
+        demo:"https://mundlapatisivasai.netlify.app/",
         github:"https://github.com/MundlapatiSivaSai/MyPortfolio"
         
     },
